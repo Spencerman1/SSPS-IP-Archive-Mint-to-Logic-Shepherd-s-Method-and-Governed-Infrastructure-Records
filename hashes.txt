@@ -1,0 +1,6 @@
+﻿E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855 *C:\Users\Laptop\Desktop\4-13-2025_Shep_Method\hashes.txt
+98B92DB36292CC1A19D1437771A3B5C53112801C112429783A8B989BD2C03E66 *C:\Users\Laptop\Desktop\4-13-2025_Shep_Method\Screenshot 2026-01-02 121135.png
+BBDA30D8BFDBE3E17E88C05524AB59627B856C5673DB9C0365DBCD8425A357BF *C:\Users\Laptop\Desktop\4-13-2025_Shep_Method\Screenshot 2026-01-02 121226.png
+27F9BEBAED11A460034A4E381979679569CC3B69D5BDDA327CDC6F4408AA3A67 *C:\Users\Laptop\Desktop\4-13-2025_Shep_Method\Title_ The Shepherding Method_ A Framework for Ethical AI, Data Governance, and Quantum System Alignment.docx
+2C57F8CFC820B036041AB3033D15DDF9C234DB438DE4815D0D1B95F8C05D61EA *C:\Users\Laptop\Desktop\4-13-2025_Shep_Method\Title_ The Shepherding Method_ A Framework for Ethical AI, Data Governance, and Quantum System Alignment.md
+0307CA713097A94E523474F3889C8A2C6D949C6A7C893E389B308DD17969A831 *C:\Users\Laptop\Desktop\4-13-2025_Shep_Method\Title_ The Shepherding Method_ A Framework for Ethical AI, Data Governance, and Quantum System Alignment.pdf
