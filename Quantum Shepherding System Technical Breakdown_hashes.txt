@@ -1,0 +1,9 @@
+﻿8750B522CA0976908BDB93889B0932E3339209067756D4FD6837A8C3FCC129E5 *C:\Users\Spenc\Desktop\Quantum Shepherding System Technical Breakdown\CARD 1 — SYSTEM ORIGIN & ARCHITECTURAL INTENT_Screenshot 2026-01-13 094126.png
+15EDD7820624B7279B878EC6D1F3FF7F7121CC7D3A30ACDC51A105679174F7E0 *C:\Users\Spenc\Desktop\Quantum Shepherding System Technical Breakdown\CARD 2 — CORE MECHANICS & DECISION LOGIC_Screenshot 2026-01-13 094305.png
+FCC1650CA93BB1331B994A49B861743324F146D7EFB1CB50475A4029E498CC12 *C:\Users\Spenc\Desktop\Quantum Shepherding System Technical Breakdown\CARD 3 — VALIDATION, TIMING & RECURSIVE CONTROL_Screenshot 2026-01-13 094529.png
+D1E061D9427348E913BB3377566AD851EEEE1852E84C4665A029BECE48C86A1E *C:\Users\Spenc\Desktop\Quantum Shepherding System Technical Breakdown\Quantum Shepherding System Technical Breakdown.docx
+1D3C77B519C1873B9E7A793194779DDD7AD6A53DA3F63EE7CD01537627F84BDF *C:\Users\Spenc\Desktop\Quantum Shepherding System Technical Breakdown\Quantum Shepherding System Technical Breakdown.md
+C4A6BD1D48FD372EAF9C645B8264131CF2486C7B6A764C5D74CB3BB42767CF69 *C:\Users\Spenc\Desktop\Quantum Shepherding System Technical Breakdown\Quantum Shepherding System Technical Breakdown.pdf
+3E55FCF277F9BBDA200525FB14E09B68BAE599FDC7A244364F2E6E8A67B98DBB *C:\Users\Spenc\Desktop\Quantum Shepherding System Technical Breakdown\Quantum Shepherding System Technical Breakdown_hashes.txt
+D0E97E21FB8A914FE0B10828F46E144EB6172D2710E914C696E2188005A1DD61 *C:\Users\Spenc\Desktop\Quantum Shepherding System Technical Breakdown\Screenshot 2026-01-12 124139.png
+4F139F66AB9A8565BB68DC82E3AF0169F743E4DC57FF39347751D1D8C4D669BD *C:\Users\Spenc\Desktop\Quantum Shepherding System Technical Breakdown\Timestamp_Screenshot 2026-01-12 124110.png
