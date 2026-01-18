@@ -1,0 +1,9 @@
+﻿7C30939F763E96AB63315EDA845F899557ED347CD6F4089989E5A4765E676555 *C:\Users\Spenc\Desktop\Workflow Description for Provisional Patent Application\Block 1 — Artifact Classification & Purpose_Screenshot 2026-01-13 115218.png
+298DB20430E4DAFA86A2D3DEF02150238E543CF17D90A070233C0008835791BC *C:\Users\Spenc\Desktop\Workflow Description for Provisional Patent Application\Block 2 — Artifact Scope & What It Represents_Screenshot 2026-01-13 115605.png
+7ECA521B0B83C7056E5EB9EFD8F2A2F5BEFB19C1B79EC62FAD2253F79C77A4FC *C:\Users\Spenc\Desktop\Workflow Description for Provisional Patent Application\Block 3 — Artifact Relevance & Relationship to the IP Stack_Screenshot 2026-01-13 115859.png
+F3EDD98865155B56C02210EEB9FED2AF5D7937A5E718F97310781B4F498C8AEA *C:\Users\Spenc\Desktop\Workflow Description for Provisional Patent Application\timestamp_Screenshot 2026-01-12 124856.png
+9DEAEFFF6C7A6BD21B7EF1ECE8472095FB5F26BE6F9C097566F533E0D95CA55F *C:\Users\Spenc\Desktop\Workflow Description for Provisional Patent Application\timestamp_Screenshot 2026-01-12 124926.png
+C2E1E669EFC479EB363EB2BDA88573BB00DCE3C07C1DAB28D10C046314020EF2 *C:\Users\Spenc\Desktop\Workflow Description for Provisional Patent Application\Workflow Description for Provisional Patent Application.docx
+B02856D75FF931633F4C66174EB88F9485323BCFD7A61B7FADF4804DDF26D642 *C:\Users\Spenc\Desktop\Workflow Description for Provisional Patent Application\Workflow Description for Provisional Patent Application.md
+8F7622C33FA06E0C3163CA2528B80C4A99738137C916215D1A3DA62274E077F1 *C:\Users\Spenc\Desktop\Workflow Description for Provisional Patent Application\Workflow Description for Provisional Patent Application.pdf
+A59BEA6AE1372C3547DBBC4EEA1B174D4BAA4E7FFB54E9A94A71599480F9B73F *C:\Users\Spenc\Desktop\Workflow Description for Provisional Patent Application\Workflow Description for Provisional Patent Application_hashes.txt
